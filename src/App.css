@@ -1,6 +1,6 @@
 * {
   color: #FFFFFF;
-  width: 100%;
+  width: 80%;
 }
 
 .app {
@@ -14,13 +14,14 @@ nav {
   background-color: #2196F3;
   font-family: 'Roboto';
   font-size: 14px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Тень на навигационной панели */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  width: 244%;
 }
 
 .buttons {
   display: flex;
   padding-top: 5px;
-  padding-left: 280px;
+  padding-left: 110px;
   justify-content: flex-start;
 }
 
@@ -58,7 +59,7 @@ nav {
   justify-items: center;
   max-width: 1440px;
   margin: 0;
-  margin-left: 14%;
+  margin-left: 16%;
   margin-right: 10%;
   width: 1200px;
 }
